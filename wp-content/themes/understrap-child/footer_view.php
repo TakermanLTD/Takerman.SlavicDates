@@ -1,4 +1,4 @@
 <div class="text-center">
   <hr />
-  slavicdates.net
+  sreshti.net
 </div>

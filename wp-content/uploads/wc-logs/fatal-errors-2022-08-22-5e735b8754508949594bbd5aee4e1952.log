@@ -1,0 +1,20 @@
+2022-08-22T18:33:53+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /var/www/html/wp-content/plugins/side-cart-woocommerce/includes/class-xoo-wsc-cart.php:181
+Stack trace:
+#0 /var/www/html/wp-content/plugins/side-cart-woocommerce/templates/xoo-wsc-container.php(29): Xoo_Wsc_Cart->get_cart_count()
+#1 /var/www/html/wp-content/plugins/side-cart-woocommerce/includes/xoo-framework/class-xoo-helper.php(57): include('/var/www/html/w...')
+#2 /var/www/html/wp-content/plugins/side-cart-woocommerce/templates/xoo-wsc-markup.php(24): Xoo_Helper->get_template('xoo-wsc-contain...')
+#3 /var/www/html/wp-content/plugins/side-cart-woocommerce/includes/xoo-framework/class-xoo-helper.php(57): include('/var/www/html/w...')
+#4 /var/www/html/wp-content/plugins/side-cart-woocommerce/includes/class-xoo-wsc-frontend.php(109): Xoo_Helper->get_template('xoo-wsc-markup....')
+#5 /var/www/html/wp-includes/class-wp-hook.php(307): Xoo_Wsc_Frontend->cart_markup('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, A в /var/www/html/wp-content/plugins/side-cart-woocommerce/includes/class-xoo-wsc-cart.php на ред 181
+
+2022-08-22T18:33:55+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /var/www/html/wp-content/plugins/side-cart-woocommerce/includes/class-xoo-wsc-cart.php:181
+Stack trace:
+#0 /var/www/html/wp-content/plugins/side-cart-woocommerce/templates/xoo-wsc-container.php(29): Xoo_Wsc_Cart->get_cart_count()
+#1 /var/www/html/wp-content/plugins/side-cart-woocommerce/includes/xoo-framework/class-xoo-helper.php(57): include('/var/www/html/w...')
+#2 /var/www/html/wp-content/plugins/side-cart-woocommerce/templates/xoo-wsc-markup.php(24): Xoo_Helper->get_template('xoo-wsc-contain...')
+#3 /var/www/html/wp-content/plugins/side-cart-woocommerce/includes/xoo-framework/class-xoo-helper.php(57): include('/var/www/html/w...')
+#4 /var/www/html/wp-content/plugins/side-cart-woocommerce/includes/class-xoo-wsc-frontend.php(109): Xoo_Helper->get_template('xoo-wsc-markup....')
+#5 /var/www/html/wp-includes/class-wp-hook.php(307): Xoo_Wsc_Frontend->cart_markup('')
+#6 /var/www/html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, A в /var/www/html/wp-content/plugins/side-cart-woocommerce/includes/class-xoo-wsc-cart.php на ред 181
+
