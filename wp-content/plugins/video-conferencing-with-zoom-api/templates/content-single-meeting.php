@@ -148,7 +148,7 @@ do_action('vczoom_before_content');
 								<table class="table table-stripped text-center <?php echo $isAMatch && $isTimeoutEnded ? "green" : "" ?>">
 									<tr>
 										<td>
-											<a href="http://slavicdates/account-2/" target="_blank">
+											<a href="http://sreshti/account-2/" target="_blank">
 												<img width="100" height="100" class="image img img-thumbnail" src="<?php echo get_avatar_url($current_user->ID); ?>" />
 											</a>
 											<br />

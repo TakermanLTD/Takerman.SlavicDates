@@ -1,0 +1,15 @@
+Sep 28 2022 16:08:04
+{"Number":8,"Message":"unserialize(): Error at offset 68 of 1042 bytes","File":"C:\\wamp64\\www\\Takerman.SlavicDates\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":64}
+
+Sep 28 2022 16:08:04
+{"Number":8,"Message":"unserialize(): Error at offset 50 of 74 bytes","File":"C:\\wamp64\\www\\Takerman.SlavicDates\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":64}
+
+Sep 28 2022 16:08:04
+{"Number":8,"Message":"unserialize(): Error at offset 167 of 2708 bytes","File":"C:\\wamp64\\www\\Takerman.SlavicDates\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":64}
+
+Sep 28 2022 16:08:16
+{"type":8,"message":"unserialize(): Error at offset 68 of 1037 bytes","file":"C:\\wamp64\\www\\Takerman.SlavicDates\\wp-includes\\functions.php","line":651}
+
+Sep 28 2022 16:08:16
+{"type":8,"message":"unserialize(): Error at offset 68 of 1037 bytes","file":"C:\\wamp64\\www\\Takerman.SlavicDates\\wp-includes\\functions.php","line":651}
+
